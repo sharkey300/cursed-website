@@ -1,0 +1,10 @@
+.profile img {
+	border-radius: 50%;
+	width: 40%;
+	position: absolute;
+	float:left;
+}
+.profile p {
+	float:right;
+	width:55%;
+}
